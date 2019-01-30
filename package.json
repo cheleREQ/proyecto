@@ -1,0 +1,19 @@
+{
+  "name": "proyecto",
+  "version": "1.0.0",
+  "description": "Nuestro primer proyecto de NodeJS",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cheleREQ/proyecto.git"
+  },
+  "author": "Romeo Quijano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cheleREQ/proyecto/issues"
+  },
+  "homepage": "https://github.com/cheleREQ/proyecto#readme"
+}
